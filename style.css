@@ -1,0 +1,8 @@
+body{font-family:Arial,sans-serif;background:#111;color:#fff;margin:0}
+nav{display:flex;justify-content:space-between;padding:20px;background:#1a1a1a}
+a{color:#8b5cf6;margin:10px;text-decoration:none}
+.hero{text-align:center;padding:100px 20px}
+button{padding:10px 20px;background:#8b5cf6;color:white;border:none;border-radius:8px}
+section{padding:40px}
+.card{background:#222;padding:20px;margin:10px 0;border-radius:10px}
+input,textarea{width:100%;max-width:500px;margin:10px 0;padding:10px}
